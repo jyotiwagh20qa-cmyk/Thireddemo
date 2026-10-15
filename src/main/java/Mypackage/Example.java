@@ -9,6 +9,18 @@ public class Example {
 		int c=a+b;
 		System.out.print("Addition ="+c);
 		
+		
+		
+	}
+	public void sub()
+	{
+		int a=10, b=10;
+		
+		int c=a-b;
+		System.out.print("substraction ="+c);
+		
+		
+		
 	}
 	
 
